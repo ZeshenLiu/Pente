@@ -1,11 +1,3 @@
-Student Name: Zeshen Liu
-Student ID: 46923247
-Pennkey: zeshen
-Email: zehen@seas.upenn.edu
-
-According to our manual, I implemented Game class, MyCoordinate Class,
-MyBoard Class, HumanPlayer Class and ZeshenPlayer Class.
-
 Game class is responsible to run the game. It firstly asks the user to
 choose whether to go first. If user inputs any response started by "y"
 in keyboard, it will consider user would like to go first and then the 
